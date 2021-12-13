@@ -1,1 +1,1 @@
-# homebrew-macker
+# homebrew-macker-m3s
